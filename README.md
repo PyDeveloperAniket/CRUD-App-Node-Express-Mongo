@@ -17,6 +17,30 @@ Before you can run this project, make sure you have the following installed:
 - **EJS (Embedded JavaScript) templating engine (used for rendering views)**
 #
 
+
+## Structure
+
+- config
+  - mongoose
+
+- models
+    data.js
+
+- routers
+    - home.js
+
+- views
+    - edit.ejs
+    - home.ejs
+    - style.css
+
+- .env
+
+- index.js
+- package-lock.json
+- package.json
+
+#
 ## Setup
 
 1. Clone this repository to your local machine:
@@ -33,6 +57,7 @@ Before you can run this project, make sure you have the following installed:
 
    ```shell
    npm install
+   ```
 
 4. Create a .env file in the project root and configure it with your environment variables:
 
