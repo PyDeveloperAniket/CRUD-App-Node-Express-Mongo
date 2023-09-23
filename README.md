@@ -15,16 +15,6 @@ Before you can run this project, make sure you have the following installed:
 - **MongoDB (or any other database you are using)**
 
 - **EJS (Embedded JavaScript) templating engine (used for rendering views)**
-
-
-## Usage
-
-1. **Starting the API**: To start the API, run the following command:
-    ```
-    npm start
-    ```
-
-    The API will be accessible at http://localhost:3001.
 #
 
 ## Setup
@@ -50,6 +40,15 @@ Before you can run this project, make sure you have the following installed:
    PORT=3001
 #
 
+## Run
+
+1. **Starting the App**: To start the API, run the following command:
+    ```
+    npm start
+    ```
+
+    The API will be accessible at http://localhost:3001.
+#
 
 ## Usage
 
@@ -94,4 +93,3 @@ In case of errors during any of the above operations (e.g., database connection 
 ## Aniket Wandile 
 
 *follow for more :*  **https://aniketwandile.tech**
-
