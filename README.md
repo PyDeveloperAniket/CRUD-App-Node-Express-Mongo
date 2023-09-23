@@ -1,1 +1,1 @@
-﻿## CRUD App using NodeJs ExpressJs MongoDB
+## CRUD App using NodeJs ExpressJs MongoDB
